@@ -7,7 +7,7 @@
 Backend Engineer working with Node.js, Express, MongoDB, and system-design fundamentals.  
 Focused on building scalable, reliable services and growing deeper into modern MERN-based backend architecture.
 
-📫 Email: **rajkakadiya07@gmail.com**
+📫 Email: **hello@rajkakadiya.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkakadiya07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajkakadiya07@gmail.com) 
